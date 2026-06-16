@@ -1,2 +1,2 @@
 # Liman-Market-ROI-analysis-Simple-LR-mini-project
-Market ROI analysis using Simple Linear Regression, a mini project 
+A mini project on Simple Linear Regression analysis using Statsmodels to evaluate marketing ROI and identify the advertising channel with the strongest impact on sales.
